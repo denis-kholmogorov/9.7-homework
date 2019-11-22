@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2d903e2-0a59-4a59-a795-80cbe4902dc7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Txy6mKrdNq61ph2jukwHfk8Fl0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../9.5 homework" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="9.7 homework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2d903e2-0a59-4a59-a795-80cbe4902dc7" name="Default Changelist" comment="" />
+      <created>1574415867185</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574415867185</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="269" width="426" height="479" key="FileChooserDialogImpl" timestamp="1574417465552">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state x="623" y="269" width="426" height="479" key="FileChooserDialogImpl/0.0.1680.1021@0.0.1680.1021" timestamp="1574417465552" />
+    <state width="1634" height="270" key="GridCell.Tab.0.bottom" timestamp="1574428500978">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="270" key="GridCell.Tab.0.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1574428500978" />
+    <state width="1634" height="270" key="GridCell.Tab.0.center" timestamp="1574428500977">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="270" key="GridCell.Tab.0.center/0.0.1680.1021@0.0.1680.1021" timestamp="1574428500977" />
+    <state width="1634" height="270" key="GridCell.Tab.0.left" timestamp="1574428500976">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="270" key="GridCell.Tab.0.left/0.0.1680.1021@0.0.1680.1021" timestamp="1574428500976" />
+    <state width="1634" height="270" key="GridCell.Tab.0.right" timestamp="1574428500977">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="270" key="GridCell.Tab.0.right/0.0.1680.1021@0.0.1680.1021" timestamp="1574428500977" />
+    <state width="1634" height="333" key="GridCell.Tab.1.bottom" timestamp="1574428021491">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="333" key="GridCell.Tab.1.bottom/0.0.1680.1021@0.0.1680.1021" timestamp="1574428021491" />
+    <state width="1634" height="333" key="GridCell.Tab.1.center" timestamp="1574428021490">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="333" key="GridCell.Tab.1.center/0.0.1680.1021@0.0.1680.1021" timestamp="1574428021490" />
+    <state width="1634" height="333" key="GridCell.Tab.1.left" timestamp="1574428021489">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="333" key="GridCell.Tab.1.left/0.0.1680.1021@0.0.1680.1021" timestamp="1574428021489" />
+    <state width="1634" height="333" key="GridCell.Tab.1.right" timestamp="1574428021490">
+      <screen x="0" y="0" width="1680" height="1021" />
+    </state>
+    <state width="1634" height="333" key="GridCell.Tab.1.right/0.0.1680.1021@0.0.1680.1021" timestamp="1574428021490" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
