@@ -24,7 +24,6 @@ public class Main
 
                 if (folder.exists() && copyFolder.exists())
                 {
-                    copyFolder.mkdir();
                     openFolder(folder, copyFolder);
                 }
                 else
@@ -43,6 +42,7 @@ public class Main
 
     public static void openFolder(File folder, File copyFolder) throws IOException {
         File[] files = folder.listFiles();
+        copyFolder.mkdir();
 
         for(File file : files){
             if(file.isFile())
@@ -58,7 +58,6 @@ public class Main
             else if (file.isDirectory())
             {
                 File copy = new File(copyFolder.getPath() + "/" + file.getName());
-                copy.mkdir();
                 openFolder(file, copy);
             }
         }
